@@ -29,7 +29,7 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   
   <a href="https://app.daily.dev/abdullahalhasan">
-    <img style="width: 550px; height: auto;" src="https://api.daily.dev/devcards/v2/UDHA5AiMmp5MdX6XLHzl8.png?r=8ku&type=wide" alt="Abdullah Alhasan's Dev Card" />
+    <img style="width: 500px; height: auto;" src="https://api.daily.dev/devcards/v2/UDHA5AiMmp5MdX6XLHzl8.png?r=8ku&type=wide" alt="Abdullah Alhasan's Dev Card" />
   </a>
   
   <img style="width: 350px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaho7&show_icons=true&locale=en&layout=compact" alt="abdullaho7" />
