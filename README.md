@@ -29,7 +29,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaho7&show_icons=true&locale=en&layout=compact" alt="abdullaho7" /> 
 
-<a href="https://app.daily.dev/abdullahalhasan"><img src="https://api.daily.dev/devcards/v2/UDHA5AiMmp5MdX6XLHzl8.png?r=8ku&type=wide" width="652" alt="Abdullah Alhasan's Dev Card"/></a>
+<a href="https://app.daily.dev/abdullahalhasan"><img src="https://api.daily.dev/devcards/v2/UDHA5AiMmp5MdX6XLHzl8.png?r=8ku&type=wide" width="452" alt="Abdullah Alhasan's Dev Card"/></a>
 
 </p>
 
