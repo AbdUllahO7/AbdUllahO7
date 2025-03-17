@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **App or Web applications**
 
-- 👨‍💻 All of my projects are available at [https://abdllah07.github.io/Portfolio/](https://abdllah07.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://www.abdullahalhasan.online/](https://www.abdullahalhasan.online/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdullah-alhasan-730485236/](https://www.linkedin.com/in/abdullah-alhasan-730485236/)
 
