@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah ALHASAN</h1>
 <h3 align="center">Software Engineering , Full Stack WEB /APP Developer</h3>
 
-- 🔭 I’m currently working on **Web Development with MERN**
+- 🔭 I’m currently working on **Full stack Web Development **
 
 - 🌱 I’m currently learning **React Native**
 
