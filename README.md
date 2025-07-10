@@ -31,11 +31,7 @@
 <a href="https://app.daily.dev/abdullahalhasan"><img src="https://api.daily.dev/devcards/v2/UDHA5AiMmp5MdX6XLHzl8.png?type=default&r=kzz" width="356" alt="Abdullah Alhasan's Dev Card"/></a>
   
   <img style="width: 300px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaho7&show_icons=true&locale=en&layout=compact" alt="abdullaho7" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdUllahO7/AbdUllahO7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdUllahO7/AbdUllahO7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdUllahO7/AbdUllahO7/output/pacman-contribution-graph.svg">
-</picture>
+
 </div>
 
 
